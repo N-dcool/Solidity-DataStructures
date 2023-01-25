@@ -1,0 +1,79 @@
+{
+	"compiler": {
+		"version": "0.8.14+commit.80d49f37"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "bool",
+						"name": "newFlag",
+						"type": "bool"
+					}
+				],
+				"name": "changeFlag",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "ourFlag",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "toggleFlag",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ExampleBool.sol": "ExampleBool"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ExampleBool.sol": {
+			"keccak256": "0xc33a354610cb7b94d2d9248a10050cf99c177cd524a95225d6ccee5c37a59014",
+			"license": "GPL-3.0-or-later",
+			"urls": [
+				"bzz-raw://03df8b1c1fef4f01314627e30c7565268d183d54c0e04907a604517de11d4293",
+				"dweb:/ipfs/QmUSJQF7fg8vWxzuKrY2DDGGP8fkp1P2b1GCnisAu3knGQ"
+			]
+		}
+	},
+	"version": 1
+}
