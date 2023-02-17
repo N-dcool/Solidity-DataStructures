@@ -4,6 +4,17 @@ This repository contains information about various data structures in the Solidi
 
 ---
 
+## Key concepts and DataStructures :
+
+- [uint](/default_workspace/contracts/ExampleUint.sol)
+- [bool](/default_workspace/contracts/ExampleBool.sol)
+- [string](/default_workspace/contracts/ExampleString.sol)
+- [address](/default_workspace/contracts/ExampleAddress.sol)
+- [view and pure](/default_workspace/contracts/ExampleViewPure.sol)
+- [wrapAround](/default_workspace/contracts/ExampleWrapAround.sol)
+- [Example contact MsgSender](/default_workspace/contracts/ExampleMsgSender.sol)
+- [The Bloackchain Messenger](/default_workspace/contracts/TheBlockchainMessenger.sol)
+
 # The Blockchain Messenger Implementation
 
 In this project, I have implement a simple messenger functionality in a Smart Contract. Make sue
@@ -16,7 +27,7 @@ In this project, I have implement a simple messenger functionality in a Smart Co
 ## 🤓 Author 
 <table>
   <tr>
-  <td align="center"><a href="https://github.com/Nareshchoudhary02"><img src="https://i.ibb.co/nR1k4dZ/Myself-with-indian-flag.jpg" width="200px" alt="Myself"/><br /><sub><b>Naresh Choudhary</b></sub></a><br /><a href="https://github.com/Nareshchoudhary02" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/n-dcool"><img src="https://i.ibb.co/nR1k4dZ/Myself-with-indian-flag.jpg" width="200px" alt="Myself"/><br /><sub><b>Naresh Choudhary</b></sub></a><br /><a href="https://github.com/n-dcool" title="Code">💻</a></td>
   </tr>
 </table>
 
